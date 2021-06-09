@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": 73,
+      "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/06/04/toda-populacao-de-18-a-49-anos-sera-vacinada-contra-covid-19-em-viana-es.ghtml",
+      "target": "_blank",
+      "image": "https://s2.glbimg.com/hBywpjsuEVJ7wanzqBJzZ-kn8L0=/0x0:635x425/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/F/I/d8Zk3uTDuWfLpW9xKw2A/casaaaa.jpg",
+      "title": "Nova notícia teste",
+      "date": "09/06/2021",
+      "source": "Fonte confiável"
+    },
+    {
       "id": 72,
       "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/06/04/toda-populacao-de-18-a-49-anos-sera-vacinada-contra-covid-19-em-viana-es.ghtml",
       "target": "_blank",
