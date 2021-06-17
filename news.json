@@ -2,6 +2,7 @@
   
   "news": [
     {
+<<<<<<< HEAD:dbtemp.json
       "id": 75,
       "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/06/16/auditoria-mostra-que-934-pessoas-usaram-documentos-de-mortos-para-se-vacinar-contra-covid-19-no-es.ghtml",
       "target": "_blank",
@@ -29,6 +30,8 @@
       "source": "A Gazeta"
     },
     {
+=======
+>>>>>>> 63c6f9e5e9c354c313d254ff0ff10f68cea51ee9:news.json
       "id": 72,
       "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/06/04/toda-populacao-de-18-a-49-anos-sera-vacinada-contra-covid-19-em-viana-es.ghtml",
       "target": "_blank",
