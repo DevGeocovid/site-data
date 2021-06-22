@@ -2,6 +2,33 @@
   
   "news": [
     {
+      "id": 78,
+      "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/06/22/es-chega-a-11327-mortes-e-509538-casos-confirmados-de-covid-19.ghtml",
+      "target": "_blank",
+      "image": "https://s2.glbimg.com/fpN4qchYxzBTu6IO6dI6alYQpoU=/0x0:768x425/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/X/q/TKxd3JTUWBKFZpzEy4LQ/resultado-exame-covid.jpg",
+      "title": "ES chega a 11.327 mortes e 509.538 casos confirmados de Covid-19",
+      "date": "22/06/2021",
+      "source": "G1 - Espírito Santo"
+    },
+    {
+      "id": 77,
+      "href": "https://www.agazeta.com.br/es/cotidiano/covid-cidade-do-es-vacina-moradores-de-35-anos-para-nao-perder-doses-0621",
+      "target": "_blank",
+      "image": "https://midias.agazeta.com.br/2020/03/30/cidade-de-sao-mateus-218154-article.jpg",
+      "title": "Covid: cidade do ES vacina moradores de 35 anos para não perder doses",
+      "date": "22/06/2021",
+      "source": "A Gazeta"
+    },
+    {
+      "id": 76,
+      "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/06/22/es-antecipa-vacinacao-de-2a-dose-de-astrazeneca-e-notifica-testes-positivos-de-covid-19-por-sms.ghtml",
+      "target": "_blank",
+      "image": "https://s2.glbimg.com/in3xwe_a_Obim8jWCxO88n9c2ps=/0x56:1156x797/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/6/T/4TePOcSgyb5j4AuUV7AQ/whatsapp-image-2021-06-22-at-10.01.28.jpeg",
+      "title": "ES antecipa vacinação de 2ª dose de AstraZeneca e notifica testes positivos de Covid-19 por SMS",
+      "date": "22/06/2021",
+      "source": "G1 - Espírito Santo"
+    },
+    {
       "id": 75,
       "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/06/16/auditoria-mostra-que-934-pessoas-usaram-documentos-de-mortos-para-se-vacinar-contra-covid-19-no-es.ghtml",
       "target": "_blank",
