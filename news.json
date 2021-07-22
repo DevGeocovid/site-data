@@ -2,6 +2,69 @@
   
   "news": [
     {
+      "id": 88,
+      "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/07/21/es-recebe-mais-85500-doses-de-vacina-contra-a-covid-19.ghtml",
+      "target": "_blank",
+      "image": "https://s2.glbimg.com/cmBxOHtOyCkC4IK0ZMdjaIznq-s=/0x0:1280x960/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/k/m/S6ljqSRiu6cmpRV5RmDg/doses.jpg",
+      "title": "ES recebe mais 85.500 doses de vacinas contra a Covid-19",
+      "date": "22/07/2021",
+      "source": "A Gazeta"
+    },
+    {
+      "id": 87,
+      "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/07/16/es-tem-72-cidades-em-risco-baixo-para-covid-19-e-seis-em-moderado.ghtml",
+      "target": "_blank",
+      "image": "https://midias.agazeta.com.br/2020/06/22/empresas-terao-que-adotar-mascaras-no-ambiente-de-trabalhoma-267248-article.jpg",
+      "title": "ES tem 72 cidades em risco baixo para Covid-19 e seis em moderado",
+      "date": "22/07/2021",
+      "source": "G1 - Espírito Santo"
+    },
+    {
+      "id": 86,
+      "href": "https://www.agazeta.com.br/es/cotidiano/38-cidades-do-es-nao-registram-mortes-por-covid-19-ha-14-dias-0721",
+      "target": "_blank",
+      "image": "https://midias.agazeta.com.br/2021/01/28/alfredo-chaves-mais-de-10-da-populacao-contraiu-o-coronavirus-408958-article.jpeg",
+      "title": "38 cidades do ES não registram mortes por Covid-19 há 14 dias",
+      "date": "22/07/2021",
+      "source": "A Gazeta"
+    },
+    {
+      "id": 85,
+      "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/07/01/video-mostra-seringa-estourando-durante-vacinacao-contra-covid-19-no-es.ghtml",
+      "target": "_blank",
+      "image": "https://s2.glbimg.com/z4yeqMDAufbHODt_Bol8SJakqIk=/0x0:1156x867/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/r/d/eATXstS4mYvLpCTYzekw/whatsapp-image-2021-06-30-at-17.09.05.jpeg",
+      "title": "Vídeo mostra seringa estourando durante vacinação contra Covid-19 no ES",
+      "date": "08/07/2021",
+      "source": "G1 - Espírito Santo"
+    },
+    {
+      "id": 84,
+      "href": "https://www.agazeta.com.br/es/cotidiano/covid-cidade-do-es-comeca-a-vacinar-pessoas-com-29-anos-0721",
+      "target": "_blank",
+      "image": "https://midias.agazeta.com.br/2021/06/25/vacina-contra-covid-19-da-janssen-empresa-farmaceutica-da-johnson--johnson-544387-article.jpeg",
+      "title": "Cidade do ES começam a vacinar pessoas com 29 anos",
+      "date": "08/07/2021",
+      "source": "A Gazeta"
+    },
+    {
+      "id": 83,
+      "href": "https://eshoje.com.br/covid-vila-velha-e-a-cidade-que-mais-aplicou-a-primeira-dose-da-vacina-no-es/",
+      "target": "_blank",
+      "image": "https://eshoje.com.br/wp-content/uploads/2021/05/vacina-vila-velha.jpg",
+      "title": "Vila Velha é a cidade que mais aplicou a primeira dose da vacina no ES",
+      "date": "08/07/2021",
+      "source": "ES HOJE"
+    },
+    {
+      "id": 82,
+      "href": "https://www.agazeta.com.br/es/cotidiano/veja-quais-municipios-vao-aderir-ao-aplicativo-para-agendar-vacina-no-es-0721",
+      "target": "_blank",
+      "image": "https://midias.agazeta.com.br/2020/11/04/secretario-de-estado-da-saude-nesio-fernandes-em-pronunciamento-nesta-quarta-feira-09-353136.jpeg",
+      "title": "Veja quais municípios vão aderir ao aplicativo para agendar vacina no ES",
+      "date": "08/07/2021",
+      "source": "A Gazeta"
+    },
+    {
       "id": 81,
       "href": "https://www.agazeta.com.br/es/cotidiano/secretario-de-saude-atualiza-situacao-da-pandemia-da-covid-19-no-es-0621",
       "target": "_blank",
@@ -23,7 +86,7 @@
       "id": 79,
       "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/06/25/em-atualizacao-do-mapa-de-risco-vitoria-esta-em-risco-baixo-para-covid-19.ghtml",
       "target": "_blank",
-      "image": "https://s2.glbimg.com/fpN4qchYxzBTu6IO6dI6alYQpoU=/0x0:768x425/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/X/q/TKxd3JTUWBKFZpzEy4LQ/resultado-exame-covid.jpg",
+      "image": "https://midias.agazeta.com.br/2021/04/27/a-defensoria-publica-esta-recebendo-denuncias-de-problemas-com-a-vacinacao-ou-com-o-processo-de-agendamento-481637-article.jpg",
       "title": "Em atualização do mapa de risco, Vitória está em risco baixo para Covid-19",
       "date": "28/06/2021",
       "source": "G1 - Espírito Santo"
