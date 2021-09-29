@@ -2,6 +2,33 @@
   
   "news": [
     {
+      "id": 95,
+      "href": "https://www.folhavitoria.com.br/saude/noticia/09/2021/es-vai-decidir-se-vacina-da-covid-19-sera-obrigatoria-para-matricula-em-2022",
+      "target": "_blank",
+      "image": "https://assets.folhavitoria.com.br/images/81f898f0-c109-0136-b451-6231c35b6685--minified.jpeg",
+      "title": "ES vai decidir se vacina da covid-19 será obrigatória para matrícula nas escolas em 2022",
+      "date": "29/09/2021",
+      "source": "Folha Vitória"
+    },
+    {
+      "id": 94,
+      "href": "https://www.agazeta.com.br/es/cotidiano/covid-vitoria-abre-agendamento-para-adolescentes-2-dose-e-dose-de-reforco-0921",
+      "target": "_blank",
+      "image": "https://midias.agazeta.com.br/2021/06/02/vacinacao-contra-covid-19-525918-article.jpg",
+      "title": "Covid: Vitória abre agendamento para adolescentes, 2ª dose e dose de reforço",
+      "date": "29/09/2021",
+      "source": "A Gazeta"
+    },
+    {
+      "id": 93,
+      "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/09/28/es-chega-a-12539-mortes-e-584280-casos-confirmados-de-covid-19.ghtml",
+      "target": "_blank",
+      "image": "https://www.infomoney.com.br/wp-content/uploads/2020/07/GettyImages-1214347515.jpg?w=768&quality=70&strip=all",
+      "title": "ES chega a 12.539 mortes e 584.280 casos confirmados de Covid-19",
+      "date": "29/09/2021",
+      "source": "G1 - Espírito Santo"
+    },
+    {
       "id": 92,
       "href": "https://g1.globo.com/es/espirito-santo/noticia/2021/08/23/criminosos-invadem-unidade-de-saude-e-roubam-testes-de-covid-19-no-es.ghtml",
       "target": "_blank",
@@ -95,7 +122,7 @@
       "id": 82,
       "href": "https://www.agazeta.com.br/es/cotidiano/veja-quais-municipios-vao-aderir-ao-aplicativo-para-agendar-vacina-no-es-0721",
       "target": "_blank",
-      "image": "https://midias.agazeta.com.br/2020/11/04/secretario-de-estado-da-saude-nesio-fernandes-em-pronunciamento-nesta-quarta-feira-09-353136.jpeg",
+      "image": "https://midias.agazeta.com.br/2021/03/01/coletiva-com-o-governador-429121-article.jpg",
       "title": "Veja quais municípios vão aderir ao aplicativo para agendar vacina no ES",
       "date": "08/07/2021",
       "source": "A Gazeta"
